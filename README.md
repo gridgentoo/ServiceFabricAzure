@@ -1,4 +1,5 @@
 [Архитектура] ServiceFabric Microsoft [30 августа 2020] 
+
 https://drive.google.com/drive/folders/1N9P7M2eAGCtbkMrcjcfVJQkqynD1g3XZ
 
 
