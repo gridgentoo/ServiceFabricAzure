@@ -3,14 +3,14 @@
 https://drive.google.com/drive/folders/1N9P7M2eAGCtbkMrcjcfVJQkqynD1g3XZ
 
 
-# Service Fabric
+### Service Fabric
 
 Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale. Service Fabric runs on Windows and Linux, on any cloud, any datacenter, across geographic regions, or on your laptop.Service Fabric represents the next-generation platform for building and managing these enterprise-class, tier-1, cloud-scale applications running in containers.
 
-## Architecture and Subsystem Explorer
+### Architecture and Subsystem Explorer
 [Learn about Service Fabric's Core Subsystems](docs/architecture/README.md), mapped to this repo's folder structure.
 
-## Service Fabric release schedule 
+### Service Fabric release schedule 
 Here is the upcoming release schedule for Service Fabric runtime versions that we will be supporting starting with version 7.0 coming fall 2019 for the next few releases. Code developed for each of these will be published to this repo. 
 
 | Version 	| Release date 	|
